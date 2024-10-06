@@ -54,4 +54,4 @@ console.log(total) // Expected value: 6
 
 For more information on functions and how they are used in JS, check out the [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) docs.
 
-![image](https://unsplash.com/photos/a-woman-sitting-at-a-table-working-on-a-laptop-ujDTFimW2mE)
+![image](https://images.unsplash.com/photo-1721332155433-3a4b5446bcd9?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
