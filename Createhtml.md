@@ -1,7 +1,8 @@
 # How to write an HTML Boilerplate
 
 ![image](https://plus.unsplash.com/premium_photo-1661758351472-52ed02e99496?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-HTML boilerplate
+
+**HTML boilerplate**
 
 HTML boilerplate is the markup that exists on every web page. In other words, it’s the starting point for any work.
 
@@ -23,12 +24,12 @@ We’ve already discovered how to add this boilerplate - type a ! in the index.h
 
 The first line, `<!DOCTYPE html>` indicates to a browser that this will be an HTML file.
 
-The second line, <html lang="en">, is the root element. Like the root of a family tree, this element is the ancestor of every other element. All other elements will be descendants of this element. lang="en" indicates that most of the content on this page will be written in English.
+The second line, `<html lang="en">`, is the root element. Like the root of a family tree, this element is the ancestor of every other element. All other elements will be descendants of this element. lang="en" indicates that most of the content on this page will be written in English.
 
-All elements inside of the <head> element hold information about the document (metadata) or are resources related to this document.
+All elements inside of the `<head>` element hold information about the document (metadata) or are resources related to this document.
 
-The first <meta> element informs the browser of the type of text that will appear on the page using the charset attribute. The second <meta> element will help mobile browsers display this content appropriately using the name and content attributes. Do not alter these elements.
+The first `<meta>` element informs the browser of the type of text that will appear on the page using the charset attribute. The second `<meta>` element will help mobile browsers display this content appropriately using the name and content attributes. Do not alter these elements.
 
-The <title> element holds the text that will be shown in the tab for the page.
+The `<title>` element holds the text that will be shown in the tab for the page.
 
-Anything we want to appear on the page goes into the <body> element. This is where we’ve written everything in this document so far.
+Anything we want to appear on the page goes into the `<body>` element. This is where we’ve written everything in this document so far.
