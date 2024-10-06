@@ -1,4 +1,6 @@
-HTML boilerplate
+# How to write an HTML Boilerplate
+
+##HTML boilerplate
 HTML boilerplate is the markup that exists on every web page. In other words, it’s the starting point for any work.
 
 We’ve already discovered how to add this boilerplate - type a ! in the index.html file and press Tab to create it. Below is the result of that. Note that our current HTML has a little more right now, but focus on these parts for now:
@@ -17,7 +19,7 @@ We’ve already discovered how to add this boilerplate - type a ! in the index.h
 </html>
 ```
 
-The first line, `javascript<!DOCTYPE html>` indicates to a browser that this will be an HTML file.
+The first line, `<!DOCTYPE html>` indicates to a browser that this will be an HTML file.
 
 The second line, <html lang="en">, is the root element. Like the root of a family tree, this element is the ancestor of every other element. All other elements will be descendants of this element. lang="en" indicates that most of the content on this page will be written in English.
 
