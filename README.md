@@ -46,9 +46,9 @@ Functions can process data input and output a value using the _return_ keyword.
 const addNums = (numA, numB) => {
   return numA + numB
 }
-```
 
-const total = addNums(2, 4);
+const total = addNums(2, 4)
+```
 
 console.log(total) // Expected value: 6
 
