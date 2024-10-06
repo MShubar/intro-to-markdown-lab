@@ -24,7 +24,7 @@ const greet = (name) => {
 }
 ```
 
-Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ).
+> Tip: Functions often perform actions, so naming with a verb can make it clear what the function does. Examples include fetchData( ), calculateArea( ), or printReport( ).
 
 2. Calling a function
 
@@ -52,4 +52,6 @@ const total = addNums(2, 4)
 console.log(total) // Expected value: 6
 ```
 
-For more information on functions and how they are used in JS, check out the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+For more information on functions and how they are used in JS, check out the [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) docs.
+
+![image](https://unsplash.com/photos/a-woman-sitting-at-a-table-working-on-a-laptop-ujDTFimW2mE)
